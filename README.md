@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sharanya</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
+- 🌱 I’m currently learning **Nextjs**
+
 - 📫 How to reach me **somisettysharanya3161@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SIOs7E9o4drEc5CXgz3kYVCwLEOcm1lf/view?usp=sharing](https://drive.google.com/file/d/1SIOs7E9o4drEc5CXgz3kYVCwLEOcm1lf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanya19&show_icons=true&locale=en&layout=compact" alt="sharanya19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanya19&" alt="sharanya19" /></p>
-
